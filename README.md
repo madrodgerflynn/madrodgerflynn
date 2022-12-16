@@ -4,7 +4,7 @@ I am ready to dive into the wonderful world of coding!
 ***Fresh out of the academy***
 But, I am excited to work hard and learn new languages and techniques.  
 
-## Current Projects
+## Current Projects :computer:
 Project Name| Link
 ------------|------
 Jewelry Business Website| tba
