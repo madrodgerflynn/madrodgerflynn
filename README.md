@@ -1,7 +1,7 @@
 # Hi there 👋
 I am ready to dive into the wonderful world of coding!
 
-**Fresh out of the academy**
+***Fresh out of the academy***
 
 ## Current Projects:
 Jewelry Business Website
