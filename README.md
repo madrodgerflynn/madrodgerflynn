@@ -13,9 +13,9 @@ React Portfolio| tba
 
 
 ## My Hobbies
-Scuba Diving 
-Metalsmithing/Jewelry
-Gaming(all kinds)
+* Scuba Diving 
+* Metalsmithing/Jewelry
+* Gaming(all kinds)
 
 
 <!--
