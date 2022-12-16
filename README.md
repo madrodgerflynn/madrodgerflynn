@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My Name is Tyler Anderson and I am ready to dive into the wonderful world of coding. 
 <!--
 **madrodgerflynn/madrodgerflynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
