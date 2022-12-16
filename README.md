@@ -4,10 +4,13 @@ I am ready to dive into the wonderful world of coding!
 ***Fresh out of the academy***
 But, I am excited to work hard and learn new languages and techniques.  
 
-## Current Projects:
-.Jewelry Business Website
-Bubble DungeonZ
-React Portfolio
+## Current Projects
+Project Name| Link
+------------|------
+Jewelry Business Website| tba
+Bubble DungeonZ| tba
+React Portfolio| tba
+
 
 ## My Hobbies
 Scuba Diving 
